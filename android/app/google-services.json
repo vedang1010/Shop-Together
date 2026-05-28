@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "727015250911",
+    "project_id": "shop-together-ef908",
+    "storage_bucket": "shop-together-ef908.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727015250911:android:145afc9de1f2d637d3826a",
+        "android_client_info": {
+          "package_name": "com.example.shoptogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727015250911-eogu686sq4iag23phrd3oeun5919g33g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoptogether",
+            "certificate_hash": "4eea6cb091523998753475b752a0e5d34296657e"
+          }
+        },
+        {
+          "client_id": "727015250911-uaq7acffd9p3gtiutq90o55jhhedadha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NHelZv4QarSiF2ZVs5N5GB57l8RaGvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727015250911-uaq7acffd9p3gtiutq90o55jhhedadha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727015250911-4gu7p0io4ebrrkumvg7b8jnmff7olrj2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoptogether"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
